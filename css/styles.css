@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.tall-section {
+    height: 1000px;
+    background-color: #f8f8f8;
+    padding: 20px;
+}
